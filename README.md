@@ -1,5 +1,6 @@
 
-## Major Research Project (MSc Data Science and Analytics at Ryerson University)
+## Developing a Confidence Measure Based Evaluation Metric for Breast Cancer Screening Using Bayesian Neural Networks
+#### Major Research Project for MSc Data Science and Analytics at Ryerson University
 
 Images are available at https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM#16e861f7af3a4fbbbfc20e6467e79321
 
@@ -8,3 +9,5 @@ Images are available at https://wiki.cancerimagingarchive.net/display/Public/CBI
 - Mass-Full-Images_CBIS-DDSM > Test (for test images from Mass-Test Full Mammogram Images) 
 - Mass-Full-Images_CBIS-DDSM > Training (for test images from Mass-Training Full Mammogram Images)
 - Mass-Test-Description (csv) and Mass-Training-Description (csv) also need to be in the parent folder (Mass-Full-Images_CBIS-DDSM)
+
+&copy;Anika Tabassum
